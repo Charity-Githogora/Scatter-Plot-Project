@@ -13,7 +13,4 @@ This project is a data visualization that explores doping allegations in profess
 - **JavaScript**: Fetching data and rendering the visualization.
 - **D3.js**: Creating and managing the interactive scatterplot.
 
-## Getting Started
-### Prerequisites
-To view the project locally, you need a web browser (e.g., Chrome, Firefox).
 
