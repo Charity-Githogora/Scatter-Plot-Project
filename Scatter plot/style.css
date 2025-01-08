@@ -1,0 +1,48 @@
+    body {
+      background-color: #e5e2e0;
+      font-family: monospace, sans-serif;
+    }
+
+    svg {
+      background-color: white;
+      position: absolute;
+      box-shadow: 0 0 10px 10px #ccc;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .dot {
+      opacity: 0.8;
+      stroke: black;
+      stroke-width: 0.8;
+    }
+
+    #tooltip {
+      position: relative;
+      width: 200px;
+      border: 1px solid #615e54;
+      border-radius: 10px;
+      background: #e5e2e0;
+      padding: 10px;
+    }
+
+    #yAxis-label {
+      fill: black;
+      text-anchor: middle;
+      font-size: 1.5em;
+    }
+
+    #title {
+      font-size: 1.8em;
+      font-weight: bold;
+    }
+
+    #subtitle {
+      font-size: 1.5em;
+    }
+
+    .legend-text {
+      text-anchor: end;
+      font-size: 1.2em;
+    }
